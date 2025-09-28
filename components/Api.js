@@ -1,4 +1,4 @@
-const API_URL = "https://siteapi/";
+const API_URL = "https://apiestoque.webapptech.site/api/produtos";
 import { Alert } from "react-native";
 
 export const fetchEstoque = async (setRegistros) => {
